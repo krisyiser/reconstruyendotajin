@@ -1,0 +1,71 @@
+{
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15",
+  "trace": {
+    "camera": [
+      0.3769861430033191,
+      0.3600000000000004,
+      0.5620333157237923
+    ],
+    "phase": "trace",
+    "traceProgress": 1,
+    "animating": false,
+    "scanVisible": true,
+    "buildProgress": 0,
+    "linesVisible": true,
+    "comparison": false,
+    "triangles": 101938,
+    "fullVisible": false,
+    "ready": true
+  },
+  "full": {
+    "camera": [
+      0.3769861420133582,
+      0.3600000000000004,
+      0.5620333163878127
+    ],
+    "phase": "rebuild",
+    "traceProgress": 1,
+    "animating": false,
+    "scanVisible": false,
+    "buildProgress": 1,
+    "linesVisible": false,
+    "comparison": false,
+    "triangles": 29286,
+    "fullVisible": true,
+    "ready": true
+  },
+  "compare": {
+    "camera": [
+      0.37698614201335695,
+      0.3600000000000004,
+      0.5620333163878135
+    ],
+    "phase": "rebuild",
+    "traceProgress": 1,
+    "animating": false,
+    "scanVisible": true,
+    "buildProgress": 1,
+    "linesVisible": true,
+    "comparison": true,
+    "triangles": 29286,
+    "fullVisible": true,
+    "ready": true
+  },
+  "reset": {
+    "camera": [
+      0.37698614201335695,
+      0.3600000000000004,
+      0.5620333163878135
+    ],
+    "phase": "scan",
+    "traceProgress": 0,
+    "animating": false,
+    "scanVisible": true,
+    "buildProgress": 0,
+    "linesVisible": false,
+    "comparison": false,
+    "triangles": 29286,
+    "fullVisible": false,
+    "ready": true
+  }
+}

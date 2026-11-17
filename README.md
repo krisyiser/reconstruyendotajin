@@ -21,3 +21,7 @@ Three.js 0.160.1 y OrbitControls, licencia MIT. Archivos locales en `dist/vendor
 ## Accesibilidad y uso
 
 Girar: arrastrar con ratón o dedo. Zoom: rueda o gesto con dos dedos. Con el lienzo enfocado, flechas izquierda/derecha giran; +/− acercan/alejan. Se respeta la preferencia de reducir movimiento. El botón Escaneo interrumpe y reinicia la secuencia.
+
+## Validación de esta entrega
+
+Safari 26.6.2 en macOS: escaneo, trazado, reconstrucción, comparación y reinicio correctos. Chromium: recorrido automático, interrupción de animación, giro y zoom; vista de 390 px sin desbordamiento horizontal. Resultados en `qa/`. La interfaz está adaptada al móvil; no se ha realizado una prueba en un iPhone físico.
