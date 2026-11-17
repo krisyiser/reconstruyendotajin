@@ -1,0 +1,55 @@
+{
+  "errors": [],
+  "compare": {
+    "ready": true,
+    "phase": "rebuild",
+    "traceProgress": 1,
+    "buildProgress": 1,
+    "animating": false,
+    "scanVisible": true,
+    "fullVisible": true,
+    "linesVisible": true,
+    "comparison": true,
+    "camera": [
+      0.37473921160088147,
+      0.3599999999999996,
+      0.5635339593039173
+    ],
+    "triangles": 29286
+  },
+  "reset": {
+    "ready": true,
+    "phase": "scan",
+    "traceProgress": 0,
+    "buildProgress": 0,
+    "animating": false,
+    "scanVisible": true,
+    "fullVisible": false,
+    "linesVisible": false,
+    "comparison": false,
+    "camera": [
+      0.37473921160087875,
+      0.3599999999999996,
+      0.5635339593039191
+    ],
+    "triangles": 101938
+  },
+  "overflow": false,
+  "demo": {
+    "ready": true,
+    "phase": "rebuild",
+    "traceProgress": 1,
+    "buildProgress": 1,
+    "animating": false,
+    "scanVisible": false,
+    "fullVisible": true,
+    "linesVisible": false,
+    "comparison": false,
+    "camera": [
+      0.37473921160087875,
+      0.3599999999999996,
+      0.5635339593039191
+    ],
+    "triangles": 29286
+  }
+}
